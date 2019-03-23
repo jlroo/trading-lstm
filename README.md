@@ -6,11 +6,11 @@ This project shows how LSTM based deep neural networks can be applied to predict
 
 # Tech/Framework used
 ```bash
-NumPy 
-Matplotlib 
-TensorFlow 
-Pandas
-h5py
+⋅NumPy 
+⋅Matplotlib 
+⋅TensorFlow 
+⋅Pandas
+⋅h5py
 ```
 # Code Example
  
