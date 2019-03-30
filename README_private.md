@@ -1,3 +1,3 @@
 # LSTM in Trading(For group member only)
 
-# Stage two:
+## Stage two:
