@@ -12,7 +12,7 @@ TensorFlow (version …?)
 Pandas(version …?)
 h5py
 ```
-# Usage and Example
+# Usage and Examples
 
 # Results
  
