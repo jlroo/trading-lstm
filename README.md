@@ -19,3 +19,9 @@ This project shows how LSTM based deep neural networks can be applied to predict
 # Contribute
  
 # License
+
+===
+# trading-lstm
+added data folder and gitignore
+another change
+
