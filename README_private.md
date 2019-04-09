@@ -16,14 +16,17 @@
   - Modify Notebook 2 to only include data preparation
   - Rewrite code, comments, and explanation in notebook 2
   - Ensure correct citation and format of following notebooks
+  
 ## Stage Three (April1-April9):
 - Read the code and understand the data format
   - Try to import HDF5 into PyTorch
   - Push data to github
+  - Read the TensorFlow Version of the code
 
 - Implement LSTM in PyTorch
   - Import data and apply data augmentation
   - Override LSTM modole in pyTorch and have one more fully connected layer
   - Train and Test Data with timing
+  
   
  
