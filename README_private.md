@@ -28,5 +28,13 @@
   - Override LSTM modole in pyTorch and have one more fully connected layer
   - Train and Test Data with timing
   
+    
+## Stage Four (April10-April17):
+- Reproduce the code and make it runnable
+  - Replace the deprcated codes
+  - Run the code with 15 epochs and compare the results
+  - Get a correlation about 0.04 which is fit into the prediction
+
+  
   
  
