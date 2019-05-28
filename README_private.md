@@ -35,6 +35,19 @@
   - Run the code with 15 epochs and compare the results
   - Get a correlation about 0.04 which is fit into the prediction
 
-  
+## Stage Four (April20):
+- Data Exploration
+ - rows and columns
+ - correlation
+ - plots
+    
+- Make power point
+ - Basic concepts
+ - pictures
+ - Data observation and results
+ - https://www.overleaf.com/7151825693cjbrzgbknkdj
+ 
+- Finish up notebook
+
   
  
